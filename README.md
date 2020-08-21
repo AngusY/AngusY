@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Angus.
+
+- 🔭 I’m currently working on Optilyfe app for non-profit research purpose, with the goal to improve the wellness for patients in their journey of recovery.
 
 <!--
 **AngusY/AngusY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
